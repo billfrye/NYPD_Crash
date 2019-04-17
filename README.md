@@ -1,4 +1,4 @@
-# Final Project: GitCrash
+# Group Project: NYPD_CRASH
 
 ## [NYPD Collision Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95)
 
